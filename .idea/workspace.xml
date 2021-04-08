@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51dd2aef-c1f2-46e8-8974-afdb32f3316c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +58,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1617895696063</updated>
-      <workItem from="1617895697789" duration="5544000" />
+      <workItem from="1617895697789" duration="5875000" />
     </task>
     <servers />
   </component>
@@ -83,9 +83,9 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="100" y="100" width="878" height="538" key="DiffContextDialog" timestamp="1617900427053">
+    <state x="100" y="100" width="878" height="538" key="DiffContextDialog" timestamp="1617901422204">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="100" y="100" width="878" height="538" key="DiffContextDialog/0.0.1366.738@0.0.1366.738" timestamp="1617900427053" />
+    <state x="100" y="100" width="878" height="538" key="DiffContextDialog/0.0.1366.738@0.0.1366.738" timestamp="1617901422204" />
   </component>
 </project>
