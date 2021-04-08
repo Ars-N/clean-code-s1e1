@@ -16,25 +16,25 @@
   <section id="element-list__add">
     <label for="new-task">add item</label>
     <form class="form-element__add" method="dialog">
-      <input id="new-task" class="task" type="text">
+      <input id="new-task" class="task input-text" type="text">
       <button>add</button>
     </form>
   </section>
   <h3>todo</h3>
   <ul id="incomplete-tasks">
     <li>
-      <input type="checkbox">
+      <input type="checkbox" class="checkbox">
       <label class="task">pay bills</label>
-      <input type="text" class="task">
+      <input type="text" class="task input-text">
       <button class="edit">Edit</button>
       <button class="delete">
         <img alt="remove item" src="./remove.svg">
       </button>
     </li>
     <li class="edit-mode">
-      <input type="checkbox">
+      <input type="checkbox" class="checkbox">
       <label class="task">go shopping</label>
-      <input type="text" value="go shopping"class="task">
+      <input type="text" value="go shopping"class="task input-text">
       <button class="edit">Save</button>
       <button class="delete">
         <img alt="remove item" src="./remove.svg">
@@ -44,9 +44,9 @@
   <h3>completed</h3>
   <ul id="completed-tasks">
     <li>
-      <input type="checkbox" checked>
+      <input type="checkbox" class="checkbox" checked>
       <label class="task">see the doctor</label>
-      <input type="text" class="task">
+      <input type="text" class="task input-text">
       <button class="edit">Edit</button>
       <button class="delete">
         <img alt="remove item" src="./remove.svg">
