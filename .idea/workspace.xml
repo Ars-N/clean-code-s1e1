@@ -22,6 +22,7 @@
     <list default="true" id="51dd2aef-c1f2-46e8-8974-afdb32f3316c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +42,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -58,7 +60,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1617895696063</updated>
-      <workItem from="1617895697789" duration="10884000" />
+      <workItem from="1617895697789" duration="19043000" />
+      <workItem from="1617915701301" duration="370000" />
     </task>
     <servers />
   </component>
@@ -81,11 +84,16 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="100" y="100" width="878" height="538" key="DiffContextDialog" timestamp="1617901422204">
+    <state x="25" y="260" width="1197" height="538" key="DiffContextDialog" timestamp="1617915357855">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="100" y="100" width="878" height="538" key="DiffContextDialog/0.0.1366.738@0.0.1366.738" timestamp="1617901422204" />
+    <state x="25" y="260" width="1197" height="538" key="DiffContextDialog/0.0.1366.738@0.0.1366.738" timestamp="1617915357855" />
+    <state x="463" y="124" key="FileChooserDialogImpl" timestamp="1617915432698">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="124" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1617915432698" />
   </component>
 </project>
