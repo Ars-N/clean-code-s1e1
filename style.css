@@ -12,7 +12,8 @@ body {
   text-align: right;
 }
 
-.img-wrapper .img, .img-delete {
+.img-wrapper .img, 
+.img-delete {
   width: 100%;
 }
 
